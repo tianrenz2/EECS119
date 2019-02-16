@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      diegot1
+HostName                       zuma.eecs.uci.edu
+ProcessIdentifier              26585
+ProcessCreationTime_UTC        1544388774
+ProcessCreationTime_Readable   Sun Dec  9 12:52:54 2018 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /users/ugrad/2016/fall/diegot1/EECS119/Cadence6/project4/capacitor_new/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Sun Dec  9 16:00:40 2018 PST
